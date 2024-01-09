@@ -1,0 +1,17 @@
+[
+    { 
+        "documento": 5621542157,
+        "nombre": "carlos",
+        "edad": 25,
+        "telefono Celular" : 12142154,
+        "telefono fijo" : 54351
+        
+        },
+        {
+        "documento": 567626342,
+        "nombre": "brandon",
+        "edad": 30,
+        "telefono Celular" : 154354365,
+        "telefono fijo" : 524354325
+    }
+]
